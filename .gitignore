@@ -1,0 +1,8 @@
+node_modules
+dist
+.env_*
+updates.log
+.idea
+.secrets/mongo_admin_password.txt
+.secrets/mongo_shieldy_password.txt
+.secrets/shieldy_token.txt
